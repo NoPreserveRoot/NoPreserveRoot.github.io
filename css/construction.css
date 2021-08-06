@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
+body {
+    background: #2e3440;
+}
+
+h1 {
+    font-family: "Patua One", cursive;
+    font-size: 4em;
+    color: #a3be8c;
+    text-align: center;
+}
